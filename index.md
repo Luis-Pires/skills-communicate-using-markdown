@@ -21,3 +21,8 @@ const pets_coll = client.db (dbname).collection (collname)
 const doc_tobias = {"petid":160, "name":"Tobias", "age":4, "gender":'Male'};
 
 ```
+
+Afazeres
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
